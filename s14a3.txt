@@ -1,0 +1,42 @@
+{
+    "page": 1,
+    "results": [
+        {         
+             "id": 1234,
+             "sender": "rbrahul95@gmail.com",
+             "imagepath": "/sadasvvasdfasd.jpg",
+             "subject": "json practice",
+             "body": "Problem statment for attached image",
+             "date": "1/10/2017",
+             "start":true
+        },
+	 {         
+             "id": 1234,
+             "sender": "rbrahul95@gmail.com",
+             "imagepath": "/aasdvvasdfasd.jpg",
+             "subject": assingment practice",
+             "body": "Problem statment for attached image",
+             "date": "3/15/2017",
+             "start":true
+        },
+	 {         
+             "id": 1234,
+             "sender": "rbrahul95@gmail.com",
+             "imagepath": "/ccccasdfasd.jpg",
+             "subject": "json practice",
+             "body": "Problem statment for attached image",
+             "date": "2/11/2017",
+             "start":true
+        },
+           ],
+    "total_results": 3,
+    "total_pages": 1
+}
+
+
+
+
+
+
+
+
